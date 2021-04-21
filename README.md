@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthiklsarma
-- 👀 I’m interested in web development, analytics and big data
-- 🌱 I’m currently learning tensorflow and react native
-- 💞️ I’m looking to collaborate on applications which make life easier.
-- 📫 You can reach me [here](http://karthiksarma.me)
+- I’m interested in web development, analytics and big data
+- I’m currently learning tensorflow and react native
+- I’m looking to collaborate on applications which make life easier.
+- You can reach me [here](http://karthiksarma.me)
