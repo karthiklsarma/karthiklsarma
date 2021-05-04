@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthiklsarma
+- 👋 Hi, I’m Karthik Sarma
 - I’m interested in web development, analytics and big data
 - I’m currently learning tensorflow and react native
 - I’m looking to collaborate on applications which make life easier.
